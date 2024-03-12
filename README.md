@@ -20,7 +20,7 @@ TL;DR: The code provides a Gradio interface for extracting images and text from 
 <br>
 
 
-## 🟧 Running the Application
+## Running the Application
 
 ``` python 2.py```
 
