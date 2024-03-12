@@ -11,9 +11,7 @@
 ## Dependency (Tested on an Mac) 
 
 
-```pip install gradio pymupdf pdfminer.six yt-dlp pyperclip
-
-```
+```pip install gradio pymupdf pdfminer.six yt-dlp pyperclip```
 
 
 <br>
