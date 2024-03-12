@@ -6,7 +6,7 @@ TL;DR: The code provides a Gradio interface for extracting images and text from 
 
 
 ![Image](https://github.com/leeseomin/EXT/blob/main/pic/1.png)
-![Image](https://github.com/leeseomin/EXT/blob/main/pic/2.png)
+
 
 
 
