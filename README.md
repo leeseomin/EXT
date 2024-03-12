@@ -11,7 +11,9 @@
 ## Dependency (Tested on an Mac) 
 
 
-```pip install streamlit PyMuPDF pdfminer.six```
+```pip install gradio pymupdf pdfminer.six yt-dlp pyperclip
+
+```
 
 
 <br>
