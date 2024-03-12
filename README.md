@@ -32,17 +32,3 @@ TL;DR: The code provides a Gradio interface for extracting images and text from 
 
 
 
-
-## Credit
-
-PyMuPDF : https://github.com/pymupdf/PyMuPDF 
-
-pdfminer : https://github.com/pdfminer/pdfminer.six
-
-Streamlit : https://github.com/streamlit/streamlit
-
- <br/>
- 
- <br/>
-
-
