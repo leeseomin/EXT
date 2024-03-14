@@ -22,7 +22,7 @@ TL;DR: The code provides a Gradio interface for extracting images and text from 
 
 ## Running the Application
 
-``` python 2.py```
+``` python 3.py```
 
 
  <br/>
