@@ -1,6 +1,6 @@
 # EXT
 
-### extract text from a PDF, YouTube
+### extract text from a PDF, multiple pdf , YouTube
 
 TL;DR
 :The code provides a Gradio interface for extracting images and text from PDF files, as well as downloading and processing subtitles and videos from online sources. 
@@ -23,7 +23,7 @@ TL;DR
 
 ## Running the Application
 
-``` python 5.py```
+``` python 7.py```
 
 
  <br/>
